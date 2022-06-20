@@ -3,8 +3,8 @@
 
 Pre-bombing picture.
 
-![image](/images/pre-bombing.png)
+![image](images/pre-bombing.png)
 
 After bombing October 2018 with 1-10 commits per day.
 
-![image](/images/post-bombing.png)
+![image](images/post-bombing.png)
